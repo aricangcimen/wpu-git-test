@@ -1,2 +1,2 @@
 # wpu-git-test
-repo untuk mencoba git remote
+Halo kalian semua saya buat program ini
